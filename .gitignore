@@ -1,0 +1,11 @@
+agents.md
+AGENTS.md
+
+# macOS
+.DS_Store
+._*
+__MACOSX/
+
+# Windows
+Thumbs.db
+[Dd]esktop.ini
