@@ -13,6 +13,7 @@ A desert pixel scene built with **Tilemap Layers** on a rectangular grid in Resp
 ## Learn More
 
 - [Official documentation: Tilesets and Tilemaps](https://resprite.fengeon.com/docs/drawing/tilemaps-and-tilesets)
+- [Watch this example on YouTube](https://www.youtube.com/watch?v=Ap-1pj5btr4)
 
 ## Credits
 
