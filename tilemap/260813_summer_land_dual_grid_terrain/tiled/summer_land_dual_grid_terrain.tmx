@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.10" tiledversion="1.11.0" orientation="orthogonal" renderorder="right-down" width="14" height="8" tilewidth="16" tileheight="16" infinite="1" nextlayerid="2" nextobjectid="1">
+  <tileset firstgid="1" source="tilesets/Grass16tiles.tsx"/>
+  <layer id="1" name="Tilemap Layer" visible="1" opacity="1" width="14" height="8">
+    <data encoding="csv">
+      <chunk x="0" y="0" width="13" height="8">0,0,0,0,13,14,4,4,4,4,4,1,13,0,0,0,0,14,6,8,10,11,7,7,3,1,0,0,0,0,2,7,3,4,15,10,11,7,12,0,0,0,0,2,8,10,10,16,13,9,11,12,14,4,4,1,2,3,1,13,13,14,1,2,12,2,7,7,12,2,7,12,13,14,6,3,6,12,2,7,7,12,9,11,3,4,6,7,7,8,16,9,10,10,16,13,9,10,10,10,10,10,16,13</chunk>
+    </data>
+  </layer>
+</map>
